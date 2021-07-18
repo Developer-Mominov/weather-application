@@ -88,6 +88,10 @@ button{
     font-size: 18px;
     font-weight: 200;
 }
+.last a{
+   color:orange;
+  text-decoration:none;
+  }
 
 @media(max-width:530px){
     .n1,.n3,.n4,.n5{
@@ -118,8 +122,6 @@ button{
     height: 30px;
 
 }
-  .last a{
-   color:skyblue;
-  }
+  
     
 }
