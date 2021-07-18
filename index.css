@@ -6,7 +6,7 @@
     outline: none;
 }
 .main{
-    background:rgba(0, 0, 0, 0.7) ;
+    background:rgba(0, 0, 0, 0.9) ;
     background-blend-mode: lighten;
     width: 100%;
     height: 100vh;
@@ -113,5 +113,10 @@ button{
     .main{
         background-blend-mode: lighten;
     }
+  button img{
+    width: 30px;
+    height: 30px;
+
+}
     
 }
